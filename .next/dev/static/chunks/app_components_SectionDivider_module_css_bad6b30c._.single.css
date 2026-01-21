@@ -1,0 +1,65 @@
+/* [project]/app/components/SectionDivider.module.css [app-client] (css) */
+.SectionDivider-module__q3dwyW__divider {
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.SectionDivider-module__q3dwyW__lineContainer {
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  max-width: 600px;
+  height: 1px;
+  display: flex;
+  position: relative;
+}
+
+.SectionDivider-module__q3dwyW__line {
+  background: linear-gradient(90deg, transparent 0%, var(--color-accent) 50%, transparent 100%);
+  height: 1px;
+  position: absolute;
+}
+
+.SectionDivider-module__q3dwyW__glow {
+  filter: blur(10px);
+  background: linear-gradient(90deg, #0000 0%, #c9a96226 50%, #0000 100%);
+  height: 20px;
+  position: absolute;
+}
+
+.SectionDivider-module__q3dwyW__dot {
+  background: var(--color-accent);
+  opacity: .6;
+  border-radius: 50%;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+  box-shadow: 0 0 10px #c9a96280;
+}
+
+@media (max-width: 768px) {
+  .SectionDivider-module__q3dwyW__divider {
+    height: 120px;
+  }
+
+  .SectionDivider-module__q3dwyW__lineContainer {
+    width: 90%;
+  }
+
+  .SectionDivider-module__q3dwyW__dot {
+    width: 3px;
+    height: 3px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .SectionDivider-module__q3dwyW__dot {
+    animation: none !important;
+  }
+}
+
+/*# sourceMappingURL=app_components_SectionDivider_module_css_bad6b30c._.single.css.map*/

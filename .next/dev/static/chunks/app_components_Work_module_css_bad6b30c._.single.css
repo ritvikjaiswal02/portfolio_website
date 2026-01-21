@@ -1,0 +1,147 @@
+/* [project]/app/components/Work.module.css [app-client] (css) */
+.Work-module__D3KtDW__sectionTitle {
+  font-family: var(--font-serif);
+  font-size: var(--text-section);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-md);
+  letter-spacing: -.02em;
+  font-weight: 400;
+}
+
+.Work-module__D3KtDW__sectionSubtitle {
+  font-size: var(--text-body-lg);
+  color: var(--color-text-secondary);
+  max-width: 700px;
+  margin-bottom: var(--space-2xl);
+  line-height: 1.7;
+}
+
+.Work-module__D3KtDW__projects {
+  gap: var(--space-4xl);
+  flex-direction: column;
+  display: flex;
+}
+
+.Work-module__D3KtDW__project {
+  padding-top: var(--space-2xl);
+  transition: border-color var(--transition-base);
+  border-top: 1px solid #ffffff14;
+}
+
+.Work-module__D3KtDW__project:hover {
+  border-color: #ffffff26;
+}
+
+.Work-module__D3KtDW__projectTitle {
+  font-family: var(--font-serif);
+  font-size: var(--text-project);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-md);
+  letter-spacing: -.01em;
+  transition: color var(--transition-base);
+  font-weight: 400;
+}
+
+.Work-module__D3KtDW__project:hover .Work-module__D3KtDW__projectTitle {
+  color: var(--color-accent);
+}
+
+.Work-module__D3KtDW__description {
+  font-size: var(--text-body-lg);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-sm);
+  line-height: 1.6;
+}
+
+.Work-module__D3KtDW__details {
+  font-size: var(--text-body);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-xl);
+  line-height: 1.6;
+}
+
+.Work-module__D3KtDW__tech {
+  gap: var(--space-sm);
+  margin-bottom: var(--space-lg);
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.Work-module__D3KtDW__techItem {
+  font-family: var(--font-secondary);
+  font-size: var(--text-caption);
+  color: var(--color-text-secondary);
+  padding: var(--space-xs) var(--space-sm);
+  transition: all var(--transition-base);
+  border: 1px solid #ffffff1a;
+  border-radius: 4px;
+}
+
+.Work-module__D3KtDW__techItem:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.Work-module__D3KtDW__links {
+  gap: var(--space-lg);
+  margin-top: var(--space-lg);
+  display: flex;
+}
+
+.Work-module__D3KtDW__link {
+  font-size: var(--text-body);
+  color: var(--color-text-primary);
+  transition: color var(--transition-base);
+}
+
+.Work-module__D3KtDW__link:hover {
+  color: var(--color-accent);
+}
+
+@media (max-width: 768px) {
+  .Work-module__D3KtDW__sectionTitle {
+    margin-bottom: var(--space-md);
+    font-size: clamp(2rem, 6vw, 2.5rem);
+  }
+
+  .Work-module__D3KtDW__sectionSubtitle {
+    margin-bottom: var(--space-2xl);
+    font-size: 1rem;
+  }
+
+  .Work-module__D3KtDW__projects {
+    gap: var(--space-3xl);
+  }
+
+  .Work-module__D3KtDW__project {
+    padding-top: var(--space-xl);
+  }
+
+  .Work-module__D3KtDW__projectTitle {
+    font-size: clamp(1.5rem, 5vw, 2rem);
+  }
+
+  .Work-module__D3KtDW__description {
+    font-size: 1rem;
+  }
+
+  .Work-module__D3KtDW__details {
+    font-size: .95rem;
+  }
+
+  .Work-module__D3KtDW__tech {
+    gap: var(--space-xs);
+  }
+
+  .Work-module__D3KtDW__techItem {
+    padding: 6px 10px;
+    font-size: .75rem;
+  }
+
+  .Work-module__D3KtDW__links {
+    gap: var(--space-md);
+    flex-direction: column;
+  }
+}
+
+/*# sourceMappingURL=app_components_Work_module_css_bad6b30c._.single.css.map*/

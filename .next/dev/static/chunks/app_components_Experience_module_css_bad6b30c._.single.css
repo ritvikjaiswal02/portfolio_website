@@ -1,0 +1,126 @@
+/* [project]/app/components/Experience.module.css [app-client] (css) */
+.Experience-module__L-MSRG__sectionTitle {
+  font-family: var(--font-serif);
+  font-size: var(--text-section);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-md);
+  letter-spacing: -.02em;
+  font-weight: 400;
+}
+
+.Experience-module__L-MSRG__sectionSubtitle {
+  font-size: var(--text-body-lg);
+  color: var(--color-text-secondary);
+  max-width: 700px;
+  margin-bottom: var(--space-2xl);
+  line-height: 1.7;
+}
+
+.Experience-module__L-MSRG__timeline {
+  gap: var(--space-3xl);
+  flex-direction: column;
+  display: flex;
+}
+
+.Experience-module__L-MSRG__experience {
+  padding-top: var(--space-2xl);
+  border-top: 1px solid #ffffff14;
+}
+
+.Experience-module__L-MSRG__header {
+  margin-bottom: var(--space-lg);
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-lg);
+  display: flex;
+}
+
+.Experience-module__L-MSRG__role {
+  font-family: var(--font-serif);
+  font-size: var(--text-project);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-xs);
+  letter-spacing: -.01em;
+  font-weight: 400;
+}
+
+.Experience-module__L-MSRG__company {
+  font-family: var(--font-secondary);
+  font-size: var(--text-body);
+  color: var(--color-accent);
+}
+
+.Experience-module__L-MSRG__period {
+  font-family: var(--font-secondary);
+  font-size: var(--text-body);
+  color: var(--color-text-secondary);
+  white-space: nowrap;
+}
+
+.Experience-module__L-MSRG__achievements {
+  gap: var(--space-md);
+  flex-direction: column;
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+}
+
+.Experience-module__L-MSRG__achievement {
+  font-size: var(--text-body);
+  color: var(--color-text-secondary);
+  padding-left: var(--space-lg);
+  line-height: 1.6;
+  position: relative;
+}
+
+.Experience-module__L-MSRG__achievement:before {
+  content: "—";
+  color: var(--color-accent);
+  position: absolute;
+  left: 0;
+}
+
+@media (max-width: 768px) {
+  .Experience-module__L-MSRG__sectionTitle {
+    margin-bottom: var(--space-md);
+    font-size: clamp(2rem, 6vw, 2.5rem);
+  }
+
+  .Experience-module__L-MSRG__sectionSubtitle {
+    margin-bottom: var(--space-2xl);
+    font-size: 1rem;
+  }
+
+  .Experience-module__L-MSRG__timeline {
+    gap: var(--space-2xl);
+  }
+
+  .Experience-module__L-MSRG__experience {
+    padding-top: var(--space-xl);
+  }
+
+  .Experience-module__L-MSRG__header {
+    align-items: flex-start;
+    gap: var(--space-sm);
+    flex-direction: column;
+  }
+
+  .Experience-module__L-MSRG__role {
+    font-size: clamp(1.5rem, 5vw, 2rem);
+  }
+
+  .Experience-module__L-MSRG__company, .Experience-module__L-MSRG__period {
+    font-size: .95rem;
+  }
+
+  .Experience-module__L-MSRG__period {
+    white-space: normal;
+  }
+
+  .Experience-module__L-MSRG__achievement {
+    padding-left: var(--space-md);
+    font-size: .95rem;
+  }
+}
+
+/*# sourceMappingURL=app_components_Experience_module_css_bad6b30c._.single.css.map*/

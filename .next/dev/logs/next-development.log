@@ -1,0 +1,838 @@
+[00:00:01.998] Server  LOG     
+[00:00:01.998] Server  LOG       We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:01.999] Server  LOG       The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:02.000] Server  LOG       	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:02.000] Server  LOG     
+[00:00:02.000] Server  LOG       The following mandatory changes were made to your tsconfig.json:
+
+[00:00:02.000] Server  LOG       	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:02.000] Server  LOG     
+[00:00:02.446] Server  LOG     ✓ Ready in 1817ms
+[00:02:02.534] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:39.780] Server  LOG     ✓ Compiled in 132ms
+[00:34:01.833] Server  LOG     ✓ Compiled in 37ms
+[00:34:08.444] Server  LOG     ✓ Compiled in 8ms
+[00:34:19.499] Server  LOG     ✓ Compiled in 11ms
+[00:34:58.148] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:10.015] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:23.425] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:33.096] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:17.501] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:56.458] Server  LOG     ✓ Compiled in 24ms
+[00:37:05.451] Server  LOG     ✓ Compiled in 34ms
+[00:37:08.218] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:15.120] Server  LOG     ✓ Compiled in 49ms
+[00:37:15.979] Browser LOG     Video loaded successfully
+[00:37:16.661] Browser LOG     Video loaded successfully
+[00:37:16.802] Browser LOG     Video loaded successfully
+[00:37:31.874] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:03.727] Server  LOG     ✓ Compiled in 51ms
+[00:38:12.756] Server  LOG     ✓ Compiled in 18ms
+[00:38:20.757] Server  LOG     ✓ Compiled in 33ms
+[00:39:14.717] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:15.183] Browser LOG     Video loaded successfully
+[00:42:37.952] Server  LOG     ✓ Compiled in 56ms
+[00:42:47.730] Server  LOG     ✓ Compiled in 25ms
+[00:42:51.069] Server  LOG     ✓ Compiled in 13ms
+[00:42:53.805] Server  LOG     ✓ Compiled in 25ms
+[00:43:10.109] Server  LOG     ✓ Compiled in 32ms
+[00:43:17.783] Server  LOG     ✓ Compiled in 35ms
+[00:43:19.305] Server  LOG     ✓ Compiled in 17ms
+[00:43:26.108] Server  LOG     ✓ Compiled in 27ms
+[00:43:27.601] Server  LOG     ✓ Compiled in 35ms
+[00:43:29.254] Server  LOG     ✓ Compiled in 25ms
+[00:44:08.315] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:04.735] Server  LOG     ✓ Compiled in 28ms
+[00:47:06.360] Server  LOG     ✓ Compiled in 16ms
+[00:47:07.591] Server  LOG     ✓ Compiled in 10ms
+[00:47:12.838] Server  LOG     ✓ Compiled in 16ms
+[00:47:14.185] Server  LOG     ✓ Compiled in 12ms
+[00:47:15.686] Server  LOG     ✓ Compiled in 21ms
+[00:47:23.990] Server  LOG     ✓ Compiled in 30ms
+[00:47:25.629] Server  LOG     ✓ Compiled in 21ms
+[00:47:27.524] Server  LOG     ✓ Compiled in 21ms
+[00:47:29.343] Server  LOG     ✓ Compiled in 11ms
+[00:47:30.983] Server  LOG     ✓ Compiled in 16ms
+[00:47:32.602] Server  LOG     ✓ Compiled in 18ms
+[00:47:34.144] Server  LOG     ✓ Compiled in 12ms
+[00:47:35.871] Server  LOG     ✓ Compiled in 9ms
+[00:47:37.420] Server  LOG     ✓ Compiled in 9ms
+[00:48:15.286] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:15.990] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:49:11.571] Server  LOG     ✓ Compiled in 17ms
+[00:49:14.203] Server  LOG     ✓ Compiled in 15ms
+[00:49:15.732] Server  LOG     ✓ Compiled in 17ms
+[00:49:17.537] Server  LOG     ✓ Compiled in 15ms
+[00:49:19.041] Server  LOG     ✓ Compiled in 12ms
+[00:49:20.328] Server  LOG     ✓ Compiled in 16ms
+[00:49:22.034] Server  LOG     ✓ Compiled in 10ms
+[00:49:23.431] Server  LOG     ✓ Compiled in 11ms
+[00:49:24.805] Server  LOG     ✓ Compiled in 11ms
+[00:49:26.202] Server  LOG     ✓ Compiled in 7ms
+[00:49:28.162] Server  LOG     ✓ Compiled in 7ms
+[00:49:29.765] Server  LOG     ✓ Compiled in 10ms
+[00:49:31.400] Server  LOG     ✓ Compiled in 12ms
+[00:49:32.888] Server  LOG     ✓ Compiled in 9ms
+[00:49:34.846] Server  LOG     ✓ Compiled in 10ms
+[00:49:36.388] Server  LOG     ✓ Compiled in 7ms
+[00:49:37.974] Server  LOG     ✓ Compiled in 9ms
+[00:49:39.576] Server  LOG     ✓ Compiled in 8ms
+[00:49:44.133] Server  LOG     ✓ Compiled in 9ms
+[00:49:45.930] Server  LOG     ✓ Compiled in 11ms
+[00:49:47.791] Server  LOG     ✓ Compiled in 8ms
+[00:49:49.584] Server  LOG     ✓ Compiled in 9ms
+[00:56:24.561] Server  LOG     ✓ Compiled in 512ms
+[00:57:05.754] Server  LOG     ✓ Compiled in 54ms
+[00:57:49.023] Server  LOG     ✓ Compiled in 68ms
+[00:59:52.086] Server  LOG     ✓ Compiled in 60ms
+[00:59:53.037] Browser LOG     Video loaded successfully
+[00:59:53.037] Browser LOG     Video loaded successfully
+[01:00:02.991] Server  LOG     ✓ Compiled in 17ms
+[01:00:18.702] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.708] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.712] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.717] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.729] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.733] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.743] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.747] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.753] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.757] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.762] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.766] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.772] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.777] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.784] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.788] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.793] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.796] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.800] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.803] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.807] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.811] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.814] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.817] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.821] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.824] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.828] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.830] Server  ERROR   ⨯ ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.835] Server  LOG     ✓ Compiled in 560ms
+[01:00:19.117] Browser ERROR   ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:34.976] Browser ERROR   ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:01:05.095] Browser ERROR   ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:01:05.095] Browser ERROR   ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:01:05.095] Browser ERROR   ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:01:05.095] Browser ERROR   ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:01:05.095] Browser ERROR   ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:01:05.095] Browser ERROR   ./app/components/Hero.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  2 |
+  3 | import { useEffect, useRef, useState } from 'react';
+> 4 | import { motion } from 'framer-motion';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import styles from './Hero.module.css';
+  6 |
+  7 | export default function Hero() {
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:01:08.283] Server  LOG     ✓ Compiled in 4.1s
+[01:06:00.161] Server  LOG     ✓ Compiled in 1036ms
+[01:06:01.572] Browser LOG     Video loaded successfully
+[01:06:01.572] Browser LOG     Video loaded successfully
+[01:06:37.468] Server  LOG     ✓ Compiled in 553ms
+[01:06:52.745] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[01:12:59.565] Server  LOG     ✓ Compiled in 46ms
+[01:13:16.688] Server  LOG     ✓ Compiled in 24ms
+[01:13:26.959] Server  LOG     ✓ Compiled in 16ms
+[01:14:10.654] Server  LOG     ✓ Compiled in 20ms
+[01:14:23.210] Server  LOG     ✓ Compiled in 15ms
+[01:14:31.628] Server  LOG     ✓ Compiled in 33ms
+[01:16:18.878] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:16:19.853] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[01:16:27.030] Browser LOG     Video loaded successfully
+[01:16:27.030] Browser LOG     Video loaded successfully
+[01:16:38.953] Server  LOG     ✓ Compiled in 22ms
+[01:16:50.782] Server  LOG     ✓ Compiled in 10ms
+[01:17:35.848] Browser LOG     Video loaded successfully
+[01:17:35.848] Browser LOG     Video loaded successfully
+[01:17:48.037] Server  LOG     ✓ Compiled in 8ms
+[01:17:55.895] Server  LOG     ✓ Compiled in 10ms
+[01:18:08.752] Server  LOG     ✓ Compiled in 11ms
+[01:20:07.333] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:07.503] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[01:21:49.694] Server  LOG     ✓ Compiled in 21ms
+[01:22:15.492] Server  LOG     ✓ Compiled in 39ms
+[01:22:29.366] Server  LOG     ✓ Compiled in 21ms
+[01:23:56.727] Server  LOG     ✓ Compiled in 31ms
+[01:24:15.055] Server  LOG     ✓ Compiled in 36ms
+[01:24:29.564] Server  LOG     ✓ Compiled in 26ms
+[01:27:06.778] Server  LOG     ✓ Compiled in 25ms
+[01:28:18.894] Server  LOG     ✓ Compiled in 16ms
+[01:32:11.592] Server  LOG     ✓ Compiled in 56ms
+[01:32:50.790] Server  LOG     ✓ Compiled in 29ms
+[01:33:23.595] Server  LOG     ✓ Compiled in 43ms
+[01:35:21.278] Server  LOG     ✓ Compiled in 9ms
+[01:37:43.337] Server  LOG     ✓ Compiled in 16ms
+[01:39:42.631] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:42.921] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[01:39:42.921] Browser LOG     Video loaded successfully
+[01:41:59.891] Server  LOG     ✓ Compiled in 93ms
+[01:42:08.444] Server  LOG     ✓ Compiled in 13ms
+[01:44:38.007] Server  LOG     ✓ Compiled in 28ms
+[01:44:54.114] Server  LOG     ✓ Compiled in 14ms
+[01:46:49.942] Server  LOG     ✓ Compiled in 17ms
+[01:47:04.494] Server  LOG     ✓ Compiled in 27ms
+[01:47:07.996] Server  LOG     ✓ Compiled in 12ms
+[01:48:27.663] Server  LOG     ✓ Compiled in 16ms
+[01:48:55.901] Server  LOG     ✓ Compiled in 52ms
+[01:49:28.229] Server  LOG     ✓ Compiled in 56ms
+[01:50:33.554] Server  LOG     ✓ Compiled in 12ms
+[01:51:11.095] Server  LOG     ✓ Compiled in 19ms
+[01:51:24.207] Server  LOG     ✓ Compiled in 11ms
+[01:54:14.813] Server  LOG     ✓ Compiled in 16ms
+[01:54:28.833] Server  LOG     ✓ Compiled in 27ms
+[01:55:28.503] Server  LOG     ✓ Compiled in 94ms
+[01:55:35.735] Server  LOG     ✓ Compiled in 16ms

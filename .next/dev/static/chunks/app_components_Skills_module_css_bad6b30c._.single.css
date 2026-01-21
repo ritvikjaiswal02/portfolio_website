@@ -1,0 +1,99 @@
+/* [project]/app/components/Skills.module.css [app-client] (css) */
+.Skills-module__lhWK4a__sectionTitle {
+  font-family: var(--font-serif);
+  font-size: var(--text-section);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-md);
+  letter-spacing: -.02em;
+  font-weight: 400;
+}
+
+.Skills-module__lhWK4a__sectionSubtitle {
+  font-size: var(--text-body-lg);
+  color: var(--color-text-secondary);
+  max-width: 700px;
+  margin-bottom: var(--space-2xl);
+  line-height: 1.7;
+}
+
+.Skills-module__lhWK4a__grid {
+  gap: var(--space-3xl);
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  display: grid;
+}
+
+.Skills-module__lhWK4a__category {
+  padding-top: var(--space-xl);
+  border-top: 1px solid #ffffff14;
+}
+
+.Skills-module__lhWK4a__categoryName {
+  font-family: var(--font-secondary);
+  font-size: var(--text-body-lg);
+  color: var(--color-accent);
+  margin-bottom: var(--space-lg);
+  letter-spacing: .02em;
+  font-weight: 500;
+}
+
+.Skills-module__lhWK4a__skillList {
+  gap: var(--space-sm);
+  flex-direction: column;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+.Skills-module__lhWK4a__skill {
+  font-size: var(--text-body);
+  color: var(--color-text-secondary);
+  padding-left: var(--space-md);
+  transition: color var(--transition-base);
+  line-height: 1.6;
+  position: relative;
+}
+
+.Skills-module__lhWK4a__skill:before {
+  content: "·";
+  color: var(--color-accent);
+  font-size: 1.5rem;
+  line-height: 1.2;
+  position: absolute;
+  left: 0;
+}
+
+.Skills-module__lhWK4a__skill:hover {
+  color: var(--color-text-primary);
+}
+
+@media (max-width: 768px) {
+  .Skills-module__lhWK4a__sectionTitle {
+    margin-bottom: var(--space-md);
+    font-size: clamp(2rem, 6vw, 2.5rem);
+  }
+
+  .Skills-module__lhWK4a__sectionSubtitle {
+    margin-bottom: var(--space-2xl);
+    font-size: 1rem;
+  }
+
+  .Skills-module__lhWK4a__grid {
+    gap: var(--space-2xl);
+    grid-template-columns: 1fr;
+  }
+
+  .Skills-module__lhWK4a__category {
+    padding-top: var(--space-md);
+  }
+
+  .Skills-module__lhWK4a__categoryName {
+    margin-bottom: var(--space-md);
+    font-size: 1rem;
+  }
+
+  .Skills-module__lhWK4a__skill {
+    font-size: .95rem;
+  }
+}
+
+/*# sourceMappingURL=app_components_Skills_module_css_bad6b30c._.single.css.map*/

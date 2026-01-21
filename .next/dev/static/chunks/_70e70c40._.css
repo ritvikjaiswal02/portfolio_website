@@ -1,0 +1,566 @@
+/* [project]/node_modules/@fontsource/cormorant-garamond/400.css [app-client] (css) */
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/cormorant-garamond-cyrillic-ext-400-normal.71e8c726.woff2") format("woff2"), url("../media/cormorant-garamond-cyrillic-ext-400-normal.c377e9eb.woff") format("woff");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/cormorant-garamond-cyrillic-400-normal.3bf679b5.woff2") format("woff2"), url("../media/cormorant-garamond-cyrillic-400-normal.792cbb13.woff") format("woff");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/cormorant-garamond-vietnamese-400-normal.6af76a01.woff2") format("woff2"), url("../media/cormorant-garamond-vietnamese-400-normal.6b721a97.woff") format("woff");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/cormorant-garamond-latin-ext-400-normal.9bb49775.woff2") format("woff2"), url("../media/cormorant-garamond-latin-ext-400-normal.2256f8a2.woff") format("woff");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/cormorant-garamond-latin-400-normal.fe49eedf.woff2") format("woff2"), url("../media/cormorant-garamond-latin-400-normal.6227a430.woff") format("woff");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* [project]/node_modules/@fontsource/cormorant-garamond/500.css [app-client] (css) */
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/cormorant-garamond-cyrillic-ext-500-normal.7fa6328d.woff2") format("woff2"), url("../media/cormorant-garamond-cyrillic-ext-500-normal.1ea23ef5.woff") format("woff");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/cormorant-garamond-cyrillic-500-normal.0eaeec2c.woff2") format("woff2"), url("../media/cormorant-garamond-cyrillic-500-normal.da8b4d1f.woff") format("woff");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/cormorant-garamond-vietnamese-500-normal.80297b84.woff2") format("woff2"), url("../media/cormorant-garamond-vietnamese-500-normal.e86084d2.woff") format("woff");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/cormorant-garamond-latin-ext-500-normal.66b3ac02.woff2") format("woff2"), url("../media/cormorant-garamond-latin-ext-500-normal.446f7c78.woff") format("woff");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/cormorant-garamond-latin-500-normal.0bab63ba.woff2") format("woff2"), url("../media/cormorant-garamond-latin-500-normal.24c89f33.woff") format("woff");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* [project]/node_modules/@fontsource/cormorant-garamond/600.css [app-client] (css) */
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("../media/cormorant-garamond-cyrillic-ext-600-normal.789ad8fc.woff2") format("woff2"), url("../media/cormorant-garamond-cyrillic-ext-600-normal.fcc66a1f.woff") format("woff");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("../media/cormorant-garamond-cyrillic-600-normal.6d4fcdf5.woff2") format("woff2"), url("../media/cormorant-garamond-cyrillic-600-normal.64e7afa5.woff") format("woff");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("../media/cormorant-garamond-vietnamese-600-normal.9c63c365.woff2") format("woff2"), url("../media/cormorant-garamond-vietnamese-600-normal.e8d9528c.woff") format("woff");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("../media/cormorant-garamond-latin-ext-600-normal.9611fc38.woff2") format("woff2"), url("../media/cormorant-garamond-latin-ext-600-normal.b03e8254.woff") format("woff");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("../media/cormorant-garamond-latin-600-normal.6c2e5abc.woff2") format("woff2"), url("../media/cormorant-garamond-latin-600-normal.3f04b1e7.woff") format("woff");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* [project]/node_modules/@fontsource/inter/400.css [app-client] (css) */
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/inter-cyrillic-ext-400-normal.f57b2ce1.woff2") format("woff2"), url("../media/inter-cyrillic-ext-400-normal.92e366ba.woff") format("woff");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/inter-cyrillic-400-normal.87c70db0.woff2") format("woff2"), url("../media/inter-cyrillic-400-normal.590d8936.woff") format("woff");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/inter-greek-ext-400-normal.44a5bfb8.woff2") format("woff2"), url("../media/inter-greek-ext-400-normal.ff12d701.woff") format("woff");
+  unicode-range: U+1F??;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/inter-greek-400-normal.41bd4fa0.woff2") format("woff2"), url("../media/inter-greek-400-normal.71fb119d.woff") format("woff");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/inter-vietnamese-400-normal.5a7faef8.woff2") format("woff2"), url("../media/inter-vietnamese-400-normal.3f0b2cd2.woff") format("woff");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/inter-latin-ext-400-normal.7f744ce2.woff2") format("woff2"), url("../media/inter-latin-ext-400-normal.846ef47a.woff") format("woff");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/inter-latin-400-normal.c8c144e0.woff2") format("woff2"), url("../media/inter-latin-400-normal.c55b1a1d.woff") format("woff");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* [project]/node_modules/@fontsource/inter/500.css [app-client] (css) */
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/inter-cyrillic-ext-500-normal.54a9bf6b.woff2") format("woff2"), url("../media/inter-cyrillic-ext-500-normal.efec1e4d.woff") format("woff");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/inter-cyrillic-500-normal.71f218cd.woff2") format("woff2"), url("../media/inter-cyrillic-500-normal.b0d0df48.woff") format("woff");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/inter-greek-ext-500-normal.adc4927d.woff2") format("woff2"), url("../media/inter-greek-ext-500-normal.bb493a47.woff") format("woff");
+  unicode-range: U+1F??;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/inter-greek-500-normal.6765cfa9.woff2") format("woff2"), url("../media/inter-greek-500-normal.47813ae2.woff") format("woff");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/inter-vietnamese-500-normal.5d530f23.woff2") format("woff2"), url("../media/inter-vietnamese-500-normal.1e21695b.woff") format("woff");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/inter-latin-ext-500-normal.600c9370.woff2") format("woff2"), url("../media/inter-latin-ext-500-normal.13c6442e.woff") format("woff");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/inter-latin-500-normal.30043d57.woff2") format("woff2"), url("../media/inter-latin-500-normal.f04c7275.woff") format("woff");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* [project]/node_modules/@fontsource/dm-sans/400.css [app-client] (css) */
+@font-face {
+  font-family: DM Sans;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/dm-sans-latin-ext-400-normal.c9d43156.woff2") format("woff2"), url("../media/dm-sans-latin-ext-400-normal.cfc0d8ac.woff") format("woff");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: DM Sans;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../media/dm-sans-latin-400-normal.10ebc248.woff2") format("woff2"), url("../media/dm-sans-latin-400-normal.f7d9b363.woff") format("woff");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* [project]/node_modules/@fontsource/dm-sans/500.css [app-client] (css) */
+@font-face {
+  font-family: DM Sans;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/dm-sans-latin-ext-500-normal.1bdc943a.woff2") format("woff2"), url("../media/dm-sans-latin-ext-500-normal.aa6e1b18.woff") format("woff");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: DM Sans;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../media/dm-sans-latin-500-normal.03b817ab.woff2") format("woff2"), url("../media/dm-sans-latin-500-normal.f1f0bc5a.woff") format("woff");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* [project]/app/globals.css [app-client] (css) */
+:root {
+  --color-bg: #0a0a0a;
+  --color-surface: #121212;
+  --color-text-primary: #e8e6e3;
+  --color-text-secondary: #9a9691;
+  --color-accent: #c9a962;
+  --color-accent-alt: #5b6d7a;
+  --font-display: "Blacksword", cursive;
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Inter", sans-serif;
+  --font-secondary: "DM Sans", sans-serif;
+  --text-hero: clamp(3rem, 8vw, 6rem);
+  --text-section: clamp(2.5rem, 5vw, 3.5rem);
+  --text-project: clamp(1.75rem, 3vw, 2.5rem);
+  --text-body-lg: clamp(1.125rem, 2vw, 1.5rem);
+  --text-body: 1.125rem;
+  --text-caption: .875rem;
+  --space-xs: .5rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+  --space-4xl: 10rem;
+  --space-5xl: 15rem;
+  --max-width: 75rem;
+  --side-margin: 5rem;
+  --side-margin-mobile: 1.5rem;
+  --transition-fast: .15s cubic-bezier(.4, 0, .2, 1);
+  --transition-base: .2s cubic-bezier(.4, 0, .2, 1);
+  --transition-slow: .3s cubic-bezier(.4, 0, .2, 1);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: var(--text-body);
+  color: var(--color-text-primary);
+  background-color: var(--color-bg);
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  letter-spacing: -.02em;
+  font-weight: 400;
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: var(--text-hero);
+}
+
+h2 {
+  font-size: var(--text-section);
+}
+
+h3 {
+  font-size: var(--text-project);
+}
+
+p {
+  color: var(--color-text-secondary);
+  line-height: 1.6;
+}
+
+a {
+  color: inherit;
+  transition: color var(--transition-base);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-accent);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
+.container {
+  max-width: var(--max-width);
+  padding: 0 var(--side-margin);
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 var(--side-margin-mobile);
+  }
+}
+
+.section {
+  padding: var(--space-5xl) 0;
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding: var(--space-3xl) 0;
+  }
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, var(--color-text-primary), var(--color-text-secondary));
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, :before, :after {
+    transition-duration: .01ms !important;
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+.fade-in {
+  opacity: 0;
+  animation: .8s cubic-bezier(.4, 0, .2, 1) forwards fadeInUp;
+  transform: translateY(30px);
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-stagger > :first-child {
+  animation-delay: .1s;
+}
+
+.fade-in-stagger > :nth-child(2) {
+  animation-delay: .2s;
+}
+
+.fade-in-stagger > :nth-child(3) {
+  animation-delay: .3s;
+}
+
+.fade-in-stagger > :nth-child(4) {
+  animation-delay: .4s;
+}
+
+.fade-in-stagger > :nth-child(5) {
+  animation-delay: .5s;
+}
+
+.link-expand {
+  display: inline-block;
+  position: relative;
+}
+
+.link-expand:after {
+  content: "";
+  background-color: var(--color-accent);
+  width: 0;
+  height: 1px;
+  transition: all var(--transition-base);
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.link-expand:hover:after, .link-expand:focus:after {
+  width: 100%;
+}
+
+@font-face {
+  font-family: Blacksword;
+  src: url("/fonts/Blacksword.woff2") format("woff2"), url("/fonts/Blacksword.woff") format("woff"), url("/fonts/Blacksword.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.site-header {
+  z-index: 100;
+  padding: var(--space-md) 0;
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  background: linear-gradient(#0a0a0ae6, #0a0a0a80, #0000);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.header-inner {
+  justify-content: flex-end;
+  align-items: center;
+  display: flex;
+}
+
+.header-nav {
+  align-items: center;
+  gap: var(--space-lg);
+  font-family: var(--font-secondary);
+  font-size: .95rem;
+  display: flex;
+}
+
+.header-link {
+  color: var(--color-text-secondary);
+  transition: color var(--transition-base);
+}
+
+.header-link:hover {
+  color: var(--color-text-primary);
+}
+
+.header-link-accent {
+  border: 1px solid #ffffff2e;
+  border-radius: 999px;
+  padding: .4rem 1rem;
+}
+
+.header-link-accent:hover {
+  color: var(--color-accent);
+  border-color: var(--color-accent);
+}
+
+@media (max-width: 768px) {
+  .header-nav {
+    gap: var(--space-md);
+    font-size: .85rem;
+  }
+
+  .header-link-accent {
+    padding-inline: .8rem;
+  }
+}
+
+::selection {
+  background-color: var(--color-accent);
+  color: var(--color-bg);
+}
+
+/*# sourceMappingURL=_70e70c40._.css.map*/
